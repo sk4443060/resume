@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.summary-para {
+    color: rgb(0, 0, 160);
+    font-size: x-large;
+    font-family: 'Dancing Script', cursive;
+}
+
+#profile-img {
+    border: 2px solid #000;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+#sub-list {
+    list-style-type: circle;
+}
+
+.rating-full {
+    font-size: 15pt;
+    color: #FFC22E;
+}
+
+.rating-blank
+{
+    font-size: 15pt;
+}
